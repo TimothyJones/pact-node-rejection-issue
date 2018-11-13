@@ -1,0 +1,15 @@
+{
+  "name": "pact-node-issue",
+  "version": "1.0.0",
+  "description": "A demo to reproduce the pact-node issue with promise rejections",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pact-foundation/pact": "^7.0.3",
+    "jest": "^23.6.0"
+  }
+}
